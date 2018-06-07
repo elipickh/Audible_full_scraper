@@ -17,5 +17,7 @@ Python code that iterates over Audible's search results and scrapes information 
   * Story
 * Audio sample (mp3 URL), including the option to download the sample directly
 
+The scraping is performed in parallel, and includes a wait function to avoid overwhelming the server (or more likely, to avoid being banned)
+
 TODO:
 * Scrape the ratings and text of user comments (which can then be processed by NLP etc.)
