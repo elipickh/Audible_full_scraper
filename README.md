@@ -11,7 +11,7 @@ Python code that iterates over Audible's search results and scrapes information 
 * Release date
 * Length
 * Language
-* Ratings (separately for each of the 1 to 5 star ratings):
+* Ratings (separately for each of the 1- to 5-star ratings):
   * Overall
   * Performance
   * Story
