@@ -1,5 +1,5 @@
 # Audible full scraper
-Scrape all of the information available for Audible's audiobooks using Python/Selenium
+Scrape the metadata and audio samples of Audible's audiobooks using Python/Selenium
 
 Python code that iterates over Audible's search results and scrapes information on the audiobooks, including:
 * URL
