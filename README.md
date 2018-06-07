@@ -8,6 +8,7 @@ Python code that iterates over Audible's search results and scrapes information 
 * Narrator
 * Price
 * Publisher
+* Category and sub-category
 * Release date
 * Length
 * Language
